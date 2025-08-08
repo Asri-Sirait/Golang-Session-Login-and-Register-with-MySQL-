@@ -1,1 +1,3 @@
-# Golang-Session-Login-and-Register-with-MySQL-
+# Golang-Session-Login-and-Register-with-MySQL
+go mod tidy
+go mod run
